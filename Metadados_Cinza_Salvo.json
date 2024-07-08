@@ -1,0 +1,1026 @@
+{
+  "Escala_Cinza\\Cinza_Fundo Branco - Ilumi Dia_Claro - Classe A  (1).jpg": {
+    "Fundo": "Branco",
+    "Luminosidade": "Dia_Claro",
+    "Classes": [
+      "Tampa_Celular",
+      "Escova_de_Dente",
+      "Carregador",
+      "Tomada"
+    ],
+    "Caminho": "C:\\Users\\josef\\Desktop\\Testando EP2\\Escala_Cinza\\Cinza_Fundo Branco - Ilumi Dia_Claro - Classe A  (1).jpg"
+  },
+  "Escala_Cinza\\Cinza_Fundo Branco - Ilumi Dia_Claro - Classe A  (2).jpg": {
+    "Fundo": "Branco",
+    "Luminosidade": "Dia_Claro",
+    "Classes": [
+      "Tampa_Celular",
+      "Escova_de_Dente",
+      "Carregador",
+      "Tomada"
+    ],
+    "Caminho": "C:\\Users\\josef\\Desktop\\Testando EP2\\Escala_Cinza\\Cinza_Fundo Branco - Ilumi Dia_Claro - Classe A  (2).jpg"
+  },
+  "Escala_Cinza\\Cinza_Fundo Branco - Ilumi Dia_Escuro - Classe A  (3).jpg": {
+    "Fundo": "Branco",
+    "Luminosidade": "Dia_Escuro",
+    "Classes": [
+      "Tampa_Celular",
+      "Escova_de_Dente",
+      "Carregador",
+      "Tomada"
+    ],
+    "Caminho": "C:\\Users\\josef\\Desktop\\Testando EP2\\Escala_Cinza\\Cinza_Fundo Branco - Ilumi Dia_Escuro - Classe A  (3).jpg"
+  },
+  "Escala_Cinza\\Cinza_Fundo Branco - Ilumi Dia_Escuro - Classe A  (4).jpg": {
+    "Fundo": "Branco",
+    "Luminosidade": "Dia_Escuro",
+    "Classes": [
+      "Tampa_Celular",
+      "Escova_de_Dente",
+      "Carregador",
+      "Tomada"
+    ],
+    "Caminho": "C:\\Users\\josef\\Desktop\\Testando EP2\\Escala_Cinza\\Cinza_Fundo Branco - Ilumi Dia_Escuro - Classe A  (4).jpg"
+  },
+  "Escala_Cinza\\Cinza_Fundo Branco - Ilumi Noite_Claro - Classe A  (5).jpg": {
+    "Fundo": "Branco",
+    "Luminosidade": "Noite_Claro",
+    "Classes": [
+      "Tampa_Celular",
+      "Escova_de_Dente",
+      "Carregador",
+      "Tomada"
+    ],
+    "Caminho": "C:\\Users\\josef\\Desktop\\Testando EP2\\Escala_Cinza\\Cinza_Fundo Branco - Ilumi Noite_Claro - Classe A  (5).jpg"
+  },
+  "Escala_Cinza\\Cinza_Fundo Branco - Ilumi Noite_Claro - Classe A  (6).jpg": {
+    "Fundo": "Branco",
+    "Luminosidade": "Noite_Claro",
+    "Classes": [
+      "Tampa_Celular",
+      "Escova_de_Dente",
+      "Carregador",
+      "Tomada"
+    ],
+    "Caminho": "C:\\Users\\josef\\Desktop\\Testando EP2\\Escala_Cinza\\Cinza_Fundo Branco - Ilumi Noite_Claro - Classe A  (6).jpg"
+  },
+  "Escala_Cinza\\Cinza_Fundo Branco - Ilumi Noite_Escuro - Classe A  (7).jpg": {
+    "Fundo": "Branco",
+    "Luminosidade": "Noite_Escuro",
+    "Classes": [
+      "Tampa_Celular",
+      "Escova_de_Dente",
+      "Carregador",
+      "Tomada"
+    ],
+    "Caminho": "C:\\Users\\josef\\Desktop\\Testando EP2\\Escala_Cinza\\Cinza_Fundo Branco - Ilumi Noite_Escuro - Classe A  (7).jpg"
+  },
+  "Escala_Cinza\\Cinza_Fundo Branco - Ilumi Noite_Escuro - Classe A  (8).jpg": {
+    "Fundo": "Branco",
+    "Luminosidade": "Noite_Escuro",
+    "Classes": [
+      "Tampa_Celular",
+      "Escova_de_Dente",
+      "Carregador",
+      "Tomada"
+    ],
+    "Caminho": "C:\\Users\\josef\\Desktop\\Testando EP2\\Escala_Cinza\\Cinza_Fundo Branco - Ilumi Noite_Escuro - Classe A  (8).jpg"
+  },
+  "Escala_Cinza\\Cinza_Fundo Preto - Ilumi Dia_Claro - Classe A  (1).jpg": {
+    "Fundo": "Preto",
+    "Luminosidade": "Dia_Claro",
+    "Classes": [
+      "Tampa_Celular",
+      "Escova_de_Dente",
+      "Carregador",
+      "Tomada"
+    ],
+    "Caminho": "C:\\Users\\josef\\Desktop\\Testando EP2\\Escala_Cinza\\Cinza_Fundo Preto - Ilumi Dia_Claro - Classe A  (1).jpg"
+  },
+  "Escala_Cinza\\Cinza_Fundo Preto - Ilumi Dia_Claro - Classe A  (2).jpg": {
+    "Fundo": "Preto",
+    "Luminosidade": "Dia_Claro",
+    "Classes": [
+      "Tampa_Celular",
+      "Escova_de_Dente",
+      "Carregador",
+      "Tomada"
+    ],
+    "Caminho": "C:\\Users\\josef\\Desktop\\Testando EP2\\Escala_Cinza\\Cinza_Fundo Preto - Ilumi Dia_Claro - Classe A  (2).jpg"
+  },
+  "Escala_Cinza\\Cinza_Fundo Preto - Ilumi Dia_Escuro - Classe A  (3).jpg": {
+    "Fundo": "Preto",
+    "Luminosidade": "Dia_Escuro",
+    "Classes": [
+      "Tampa_Celular",
+      "Escova_de_Dente",
+      "Carregador",
+      "Tomada"
+    ],
+    "Caminho": "C:\\Users\\josef\\Desktop\\Testando EP2\\Escala_Cinza\\Cinza_Fundo Preto - Ilumi Dia_Escuro - Classe A  (3).jpg"
+  },
+  "Escala_Cinza\\Cinza_Fundo Preto - Ilumi Dia_Escuro - Classe A  (4).jpg": {
+    "Fundo": "Preto",
+    "Luminosidade": "Dia_Escuro",
+    "Classes": [
+      "Tampa_Celular",
+      "Escova_de_Dente",
+      "Carregador",
+      "Tomada"
+    ],
+    "Caminho": "C:\\Users\\josef\\Desktop\\Testando EP2\\Escala_Cinza\\Cinza_Fundo Preto - Ilumi Dia_Escuro - Classe A  (4).jpg"
+  },
+  "Escala_Cinza\\Cinza_Fundo Preto - Ilumi Noite_Claro - Classe A  (5).jpg": {
+    "Fundo": "Preto",
+    "Luminosidade": "Noite_Claro",
+    "Classes": [
+      "Tampa_Celular",
+      "Escova_de_Dente",
+      "Carregador",
+      "Tomada"
+    ],
+    "Caminho": "C:\\Users\\josef\\Desktop\\Testando EP2\\Escala_Cinza\\Cinza_Fundo Preto - Ilumi Noite_Claro - Classe A  (5).jpg"
+  },
+  "Escala_Cinza\\Cinza_Fundo Preto - Ilumi Noite_Claro - Classe A  (6).jpg": {
+    "Fundo": "Preto",
+    "Luminosidade": "Noite_Claro",
+    "Classes": [
+      "Tampa_Celular",
+      "Escova_de_Dente",
+      "Carregador",
+      "Tomada"
+    ],
+    "Caminho": "C:\\Users\\josef\\Desktop\\Testando EP2\\Escala_Cinza\\Cinza_Fundo Preto - Ilumi Noite_Claro - Classe A  (6).jpg"
+  },
+  "Escala_Cinza\\Cinza_Fundo Preto - Ilumi Noite_Escuro - Classe A  (7).jpg": {
+    "Fundo": "Preto",
+    "Luminosidade": "Noite_Escuro",
+    "Classes": [
+      "Tampa_Celular",
+      "Escova_de_Dente",
+      "Carregador",
+      "Tomada"
+    ],
+    "Caminho": "C:\\Users\\josef\\Desktop\\Testando EP2\\Escala_Cinza\\Cinza_Fundo Preto - Ilumi Noite_Escuro - Classe A  (7).jpg"
+  },
+  "Escala_Cinza\\Cinza_Fundo Preto - Ilumi Noite_Escuro - Classe A  (8).jpg": {
+    "Fundo": "Preto",
+    "Luminosidade": "Noite_Escuro",
+    "Classes": [
+      "Tampa_Celular",
+      "Escova_de_Dente",
+      "Carregador",
+      "Tomada"
+    ],
+    "Caminho": "C:\\Users\\josef\\Desktop\\Testando EP2\\Escala_Cinza\\Cinza_Fundo Preto - Ilumi Noite_Escuro - Classe A  (8).jpg"
+  },
+  "Escala_Cinza\\Cinza_Fundo Rosa - Ilumi Dia_Claro - Classe A  (1).jpg": {
+    "Fundo": "Rosa",
+    "Luminosidade": "Dia_Claro",
+    "Classes": [
+      "Tampa_Celular",
+      "Escova_de_Dente",
+      "Carregador",
+      "Tomada"
+    ],
+    "Caminho": "C:\\Users\\josef\\Desktop\\Testando EP2\\Escala_Cinza\\Cinza_Fundo Rosa - Ilumi Dia_Claro - Classe A  (1).jpg"
+  },
+  "Escala_Cinza\\Cinza_Fundo Rosa - Ilumi Dia_Claro - Classe A  (2).jpg": {
+    "Fundo": "Rosa",
+    "Luminosidade": "Dia_Claro",
+    "Classes": [
+      "Tampa_Celular",
+      "Escova_de_Dente",
+      "Carregador",
+      "Tomada"
+    ],
+    "Caminho": "C:\\Users\\josef\\Desktop\\Testando EP2\\Escala_Cinza\\Cinza_Fundo Rosa - Ilumi Dia_Claro - Classe A  (2).jpg"
+  },
+  "Escala_Cinza\\Cinza_Fundo Rosa - Ilumi Dia_Escuro - Classe A  (3).jpg": {
+    "Fundo": "Rosa",
+    "Luminosidade": "Dia_Escuro",
+    "Classes": [
+      "Tampa_Celular",
+      "Escova_de_Dente",
+      "Carregador",
+      "Tomada"
+    ],
+    "Caminho": "C:\\Users\\josef\\Desktop\\Testando EP2\\Escala_Cinza\\Cinza_Fundo Rosa - Ilumi Dia_Escuro - Classe A  (3).jpg"
+  },
+  "Escala_Cinza\\Cinza_Fundo Rosa - Ilumi Dia_Escuro - Classe A  (4).jpg": {
+    "Fundo": "Rosa",
+    "Luminosidade": "Dia_Escuro",
+    "Classes": [
+      "Tampa_Celular",
+      "Escova_de_Dente",
+      "Carregador",
+      "Tomada"
+    ],
+    "Caminho": "C:\\Users\\josef\\Desktop\\Testando EP2\\Escala_Cinza\\Cinza_Fundo Rosa - Ilumi Dia_Escuro - Classe A  (4).jpg"
+  },
+  "Escala_Cinza\\Cinza_Fundo Rosa - Ilumi Noite_Claro - Classe A  (5).jpg": {
+    "Fundo": "Rosa",
+    "Luminosidade": "Noite_Claro",
+    "Classes": [
+      "Tampa_Celular",
+      "Escova_de_Dente",
+      "Carregador",
+      "Tomada"
+    ],
+    "Caminho": "C:\\Users\\josef\\Desktop\\Testando EP2\\Escala_Cinza\\Cinza_Fundo Rosa - Ilumi Noite_Claro - Classe A  (5).jpg"
+  },
+  "Escala_Cinza\\Cinza_Fundo Rosa - Ilumi Noite_Claro - Classe A  (6).jpg": {
+    "Fundo": "Rosa",
+    "Luminosidade": "Noite_Claro",
+    "Classes": [
+      "Tampa_Celular",
+      "Escova_de_Dente",
+      "Carregador",
+      "Tomada"
+    ],
+    "Caminho": "C:\\Users\\josef\\Desktop\\Testando EP2\\Escala_Cinza\\Cinza_Fundo Rosa - Ilumi Noite_Claro - Classe A  (6).jpg"
+  },
+  "Escala_Cinza\\Cinza_Fundo Rosa - Ilumi Noite_Escuro - Classe A  (7).jpg": {
+    "Fundo": "Rosa",
+    "Luminosidade": "Noite_Escuro",
+    "Classes": [
+      "Tampa_Celular",
+      "Escova_de_Dente",
+      "Carregador",
+      "Tomada"
+    ],
+    "Caminho": "C:\\Users\\josef\\Desktop\\Testando EP2\\Escala_Cinza\\Cinza_Fundo Rosa - Ilumi Noite_Escuro - Classe A  (7).jpg"
+  },
+  "Escala_Cinza\\Cinza_Fundo Rosa - Ilumi Noite_Escuro - Classe A  (8).jpg": {
+    "Fundo": "Rosa",
+    "Luminosidade": "Noite_Escuro",
+    "Classes": [
+      "Tampa_Celular",
+      "Escova_de_Dente",
+      "Carregador",
+      "Tomada"
+    ],
+    "Caminho": "C:\\Users\\josef\\Desktop\\Testando EP2\\Escala_Cinza\\Cinza_Fundo Rosa - Ilumi Noite_Escuro - Classe A  (8).jpg"
+  },
+  "Escala_Cinza\\Cinza_Fundo Verde - Ilumi Dia_Claro - Classe A  (1).jpg": {
+    "Fundo": "Verde",
+    "Luminosidade": "Dia_Claro",
+    "Classes": [
+      "Tampa_Celular",
+      "Escova_de_Dente",
+      "Carregador",
+      "Tomada"
+    ],
+    "Caminho": "C:\\Users\\josef\\Desktop\\Testando EP2\\Escala_Cinza\\Cinza_Fundo Verde - Ilumi Dia_Claro - Classe A  (1).jpg"
+  },
+  "Escala_Cinza\\Cinza_Fundo Verde - Ilumi Dia_Claro - Classe A  (2).jpg": {
+    "Fundo": "Verde",
+    "Luminosidade": "Dia_Claro",
+    "Classes": [
+      "Tampa_Celular",
+      "Escova_de_Dente",
+      "Carregador",
+      "Tomada"
+    ],
+    "Caminho": "C:\\Users\\josef\\Desktop\\Testando EP2\\Escala_Cinza\\Cinza_Fundo Verde - Ilumi Dia_Claro - Classe A  (2).jpg"
+  },
+  "Escala_Cinza\\Cinza_Fundo Verde - Ilumi Dia_Escuro - Classe A  (3).jpg": {
+    "Fundo": "Verde",
+    "Luminosidade": "Dia_Escuro",
+    "Classes": [
+      "Tampa_Celular",
+      "Escova_de_Dente",
+      "Carregador",
+      "Tomada"
+    ],
+    "Caminho": "C:\\Users\\josef\\Desktop\\Testando EP2\\Escala_Cinza\\Cinza_Fundo Verde - Ilumi Dia_Escuro - Classe A  (3).jpg"
+  },
+  "Escala_Cinza\\Cinza_Fundo Verde - Ilumi Dia_Escuro - Classe A  (4).jpg": {
+    "Fundo": "Verde",
+    "Luminosidade": "Dia_Escuro",
+    "Classes": [
+      "Tampa_Celular",
+      "Escova_de_Dente",
+      "Carregador",
+      "Tomada"
+    ],
+    "Caminho": "C:\\Users\\josef\\Desktop\\Testando EP2\\Escala_Cinza\\Cinza_Fundo Verde - Ilumi Dia_Escuro - Classe A  (4).jpg"
+  },
+  "Escala_Cinza\\Cinza_Fundo Verde - Ilumi Noite_Claro - Classe A  (5).jpg": {
+    "Fundo": "Verde",
+    "Luminosidade": "Noite_Claro",
+    "Classes": [
+      "Tampa_Celular",
+      "Escova_de_Dente",
+      "Carregador",
+      "Tomada"
+    ],
+    "Caminho": "C:\\Users\\josef\\Desktop\\Testando EP2\\Escala_Cinza\\Cinza_Fundo Verde - Ilumi Noite_Claro - Classe A  (5).jpg"
+  },
+  "Escala_Cinza\\Cinza_Fundo Verde - Ilumi Noite_Claro - Classe A  (6).jpg": {
+    "Fundo": "Verde",
+    "Luminosidade": "Noite_Claro",
+    "Classes": [
+      "Tampa_Celular",
+      "Escova_de_Dente",
+      "Carregador",
+      "Tomada"
+    ],
+    "Caminho": "C:\\Users\\josef\\Desktop\\Testando EP2\\Escala_Cinza\\Cinza_Fundo Verde - Ilumi Noite_Claro - Classe A  (6).jpg"
+  },
+  "Escala_Cinza\\Cinza_Fundo Verde - Ilumi Noite_Escuro - Classe A  (7).jpg": {
+    "Fundo": "Verde",
+    "Luminosidade": "Noite_Escuro",
+    "Classes": [
+      "Tampa_Celular",
+      "Escova_de_Dente",
+      "Carregador",
+      "Tomada"
+    ],
+    "Caminho": "C:\\Users\\josef\\Desktop\\Testando EP2\\Escala_Cinza\\Cinza_Fundo Verde - Ilumi Noite_Escuro - Classe A  (7).jpg"
+  },
+  "Escala_Cinza\\Cinza_Fundo Verde - Ilumi Noite_Escuro - Classe A  (8).jpg": {
+    "Fundo": "Verde",
+    "Luminosidade": "Noite_Escuro",
+    "Classes": [
+      "Tampa_Celular",
+      "Escova_de_Dente",
+      "Carregador",
+      "Tomada"
+    ],
+    "Caminho": "C:\\Users\\josef\\Desktop\\Testando EP2\\Escala_Cinza\\Cinza_Fundo Verde - Ilumi Noite_Escuro - Classe A  (8).jpg"
+  },
+  "Escala_Cinza\\Cinza_Fundo Branco - Ilumi Dia_Claro - Classe B  (1).jpg": {
+    "Fundo": "Branco",
+    "Luminosidade": "Dia_Claro",
+    "Classes": [
+      "Coracao",
+      "Quadrado_Preto",
+      "Moeda_1"
+    ],
+    "Caminho": "C:\\Users\\josef\\Desktop\\Testando EP2\\Escala_Cinza\\Cinza_Fundo Branco - Ilumi Dia_Claro - Classe B  (1).jpg"
+  },
+  "Escala_Cinza\\Cinza_Fundo Branco - Ilumi Dia_Claro - Classe B  (2).jpg": {
+    "Fundo": "Branco",
+    "Luminosidade": "Dia_Claro",
+    "Classes": [
+      "Coracao",
+      "Quadrado_Preto",
+      "Moeda_1"
+    ],
+    "Caminho": "C:\\Users\\josef\\Desktop\\Testando EP2\\Escala_Cinza\\Cinza_Fundo Branco - Ilumi Dia_Claro - Classe B  (2).jpg"
+  },
+  "Escala_Cinza\\Cinza_Fundo Branco - Ilumi Dia_Escuro - Classe B  (3).jpg": {
+    "Fundo": "Branco",
+    "Luminosidade": "Dia_Escuro",
+    "Classes": [
+      "Coracao",
+      "Quadrado_Preto",
+      "Moeda_1"
+    ],
+    "Caminho": "C:\\Users\\josef\\Desktop\\Testando EP2\\Escala_Cinza\\Cinza_Fundo Branco - Ilumi Dia_Escuro - Classe B  (3).jpg"
+  },
+  "Escala_Cinza\\Cinza_Fundo Branco - Ilumi Dia_Escuro - Classe B  (4).jpg": {
+    "Fundo": "Branco",
+    "Luminosidade": "Dia_Escuro",
+    "Classes": [
+      "Coracao",
+      "Quadrado_Preto",
+      "Moeda_1"
+    ],
+    "Caminho": "C:\\Users\\josef\\Desktop\\Testando EP2\\Escala_Cinza\\Cinza_Fundo Branco - Ilumi Dia_Escuro - Classe B  (4).jpg"
+  },
+  "Escala_Cinza\\Cinza_Fundo Branco - Ilumi Noite_Claro - Classe B  (5).jpg": {
+    "Fundo": "Branco",
+    "Luminosidade": "Noite_Claro",
+    "Classes": [
+      "Coracao",
+      "Quadrado_Preto",
+      "Moeda_1"
+    ],
+    "Caminho": "C:\\Users\\josef\\Desktop\\Testando EP2\\Escala_Cinza\\Cinza_Fundo Branco - Ilumi Noite_Claro - Classe B  (5).jpg"
+  },
+  "Escala_Cinza\\Cinza_Fundo Branco - Ilumi Noite_Claro - Classe B  (6).jpg": {
+    "Fundo": "Branco",
+    "Luminosidade": "Noite_Claro",
+    "Classes": [
+      "Coracao",
+      "Quadrado_Preto",
+      "Moeda_1"
+    ],
+    "Caminho": "C:\\Users\\josef\\Desktop\\Testando EP2\\Escala_Cinza\\Cinza_Fundo Branco - Ilumi Noite_Claro - Classe B  (6).jpg"
+  },
+  "Escala_Cinza\\Cinza_Fundo Branco - Ilumi Noite_Escuro - Classe B  (7).jpg": {
+    "Fundo": "Branco",
+    "Luminosidade": "Noite_Escuro",
+    "Classes": [
+      "Coracao",
+      "Quadrado_Preto",
+      "Moeda_1"
+    ],
+    "Caminho": "C:\\Users\\josef\\Desktop\\Testando EP2\\Escala_Cinza\\Cinza_Fundo Branco - Ilumi Noite_Escuro - Classe B  (7).jpg"
+  },
+  "Escala_Cinza\\Cinza_Fundo Branco - Ilumi Noite_Escuro - Classe B  (8).jpg": {
+    "Fundo": "Branco",
+    "Luminosidade": "Noite_Escuro",
+    "Classes": [
+      "Coracao",
+      "Quadrado_Preto",
+      "Moeda_1"
+    ],
+    "Caminho": "C:\\Users\\josef\\Desktop\\Testando EP2\\Escala_Cinza\\Cinza_Fundo Branco - Ilumi Noite_Escuro - Classe B  (8).jpg"
+  },
+  "Escala_Cinza\\Cinza_Fundo Preto - Ilumi Dia_Claro - Classe B  (1).jpg": {
+    "Fundo": "Preto",
+    "Luminosidade": "Dia_Claro",
+    "Classes": [
+      "Coracao",
+      "Quadrado_Preto",
+      "Moeda_1"
+    ],
+    "Caminho": "C:\\Users\\josef\\Desktop\\Testando EP2\\Escala_Cinza\\Cinza_Fundo Preto - Ilumi Dia_Claro - Classe B  (1).jpg"
+  },
+  "Escala_Cinza\\Cinza_Fundo Preto - Ilumi Dia_Claro - Classe B  (2).jpg": {
+    "Fundo": "Preto",
+    "Luminosidade": "Dia_Claro",
+    "Classes": [
+      "Coracao",
+      "Quadrado_Preto",
+      "Moeda_1"
+    ],
+    "Caminho": "C:\\Users\\josef\\Desktop\\Testando EP2\\Escala_Cinza\\Cinza_Fundo Preto - Ilumi Dia_Claro - Classe B  (2).jpg"
+  },
+  "Escala_Cinza\\Cinza_Fundo Preto - Ilumi Dia_Escuro - Classe B  (3).jpg": {
+    "Fundo": "Preto",
+    "Luminosidade": "Dia_Escuro",
+    "Classes": [
+      "Coracao",
+      "Quadrado_Preto",
+      "Moeda_1"
+    ],
+    "Caminho": "C:\\Users\\josef\\Desktop\\Testando EP2\\Escala_Cinza\\Cinza_Fundo Preto - Ilumi Dia_Escuro - Classe B  (3).jpg"
+  },
+  "Escala_Cinza\\Cinza_Fundo Preto - Ilumi Dia_Escuro - Classe B  (4).jpg": {
+    "Fundo": "Preto",
+    "Luminosidade": "Dia_Escuro",
+    "Classes": [
+      "Coracao",
+      "Quadrado_Preto",
+      "Moeda_1"
+    ],
+    "Caminho": "C:\\Users\\josef\\Desktop\\Testando EP2\\Escala_Cinza\\Cinza_Fundo Preto - Ilumi Dia_Escuro - Classe B  (4).jpg"
+  },
+  "Escala_Cinza\\Cinza_Fundo Preto - Ilumi Noite_Claro - Classe B  (5).jpg": {
+    "Fundo": "Preto",
+    "Luminosidade": "Noite_Claro",
+    "Classes": [
+      "Coracao",
+      "Quadrado_Preto",
+      "Moeda_1"
+    ],
+    "Caminho": "C:\\Users\\josef\\Desktop\\Testando EP2\\Escala_Cinza\\Cinza_Fundo Preto - Ilumi Noite_Claro - Classe B  (5).jpg"
+  },
+  "Escala_Cinza\\Cinza_Fundo Preto - Ilumi Noite_Claro - Classe B  (6).jpg": {
+    "Fundo": "Preto",
+    "Luminosidade": "Noite_Claro",
+    "Classes": [
+      "Coracao",
+      "Quadrado_Preto",
+      "Moeda_1"
+    ],
+    "Caminho": "C:\\Users\\josef\\Desktop\\Testando EP2\\Escala_Cinza\\Cinza_Fundo Preto - Ilumi Noite_Claro - Classe B  (6).jpg"
+  },
+  "Escala_Cinza\\Cinza_Fundo Preto - Ilumi Noite_Escuro - Classe B  (7).jpg": {
+    "Fundo": "Preto",
+    "Luminosidade": "Noite_Escuro",
+    "Classes": [
+      "Coracao",
+      "Quadrado_Preto",
+      "Moeda_1"
+    ],
+    "Caminho": "C:\\Users\\josef\\Desktop\\Testando EP2\\Escala_Cinza\\Cinza_Fundo Preto - Ilumi Noite_Escuro - Classe B  (7).jpg"
+  },
+  "Escala_Cinza\\Cinza_Fundo Preto - Ilumi Noite_Escuro - Classe B  (8).jpg": {
+    "Fundo": "Preto",
+    "Luminosidade": "Noite_Escuro",
+    "Classes": [
+      "Coracao",
+      "Quadrado_Preto",
+      "Moeda_1"
+    ],
+    "Caminho": "C:\\Users\\josef\\Desktop\\Testando EP2\\Escala_Cinza\\Cinza_Fundo Preto - Ilumi Noite_Escuro - Classe B  (8).jpg"
+  },
+  "Escala_Cinza\\Cinza_Fundo Rosa - Ilumi Dia_Claro - Classe B  (1).jpg": {
+    "Fundo": "Rosa",
+    "Luminosidade": "Dia_Claro",
+    "Classes": [
+      "Coracao",
+      "Quadrado_Preto",
+      "Moeda_1"
+    ],
+    "Caminho": "C:\\Users\\josef\\Desktop\\Testando EP2\\Escala_Cinza\\Cinza_Fundo Rosa - Ilumi Dia_Claro - Classe B  (1).jpg"
+  },
+  "Escala_Cinza\\Cinza_Fundo Rosa - Ilumi Dia_Claro - Classe B  (2).jpg": {
+    "Fundo": "Rosa",
+    "Luminosidade": "Dia_Claro",
+    "Classes": [
+      "Coracao",
+      "Quadrado_Preto",
+      "Moeda_1"
+    ],
+    "Caminho": "C:\\Users\\josef\\Desktop\\Testando EP2\\Escala_Cinza\\Cinza_Fundo Rosa - Ilumi Dia_Claro - Classe B  (2).jpg"
+  },
+  "Escala_Cinza\\Cinza_Fundo Rosa - Ilumi Dia_Escuro - Classe B  (3).jpg": {
+    "Fundo": "Rosa",
+    "Luminosidade": "Dia_Escuro",
+    "Classes": [
+      "Coracao",
+      "Quadrado_Preto",
+      "Moeda_1"
+    ],
+    "Caminho": "C:\\Users\\josef\\Desktop\\Testando EP2\\Escala_Cinza\\Cinza_Fundo Rosa - Ilumi Dia_Escuro - Classe B  (3).jpg"
+  },
+  "Escala_Cinza\\Cinza_Fundo Rosa - Ilumi Dia_Escuro - Classe B  (4).jpg": {
+    "Fundo": "Rosa",
+    "Luminosidade": "Dia_Escuro",
+    "Classes": [
+      "Coracao",
+      "Quadrado_Preto",
+      "Moeda_1"
+    ],
+    "Caminho": "C:\\Users\\josef\\Desktop\\Testando EP2\\Escala_Cinza\\Cinza_Fundo Rosa - Ilumi Dia_Escuro - Classe B  (4).jpg"
+  },
+  "Escala_Cinza\\Cinza_Fundo Rosa - Ilumi Noite_Claro - Classe B  (5).jpg": {
+    "Fundo": "Rosa",
+    "Luminosidade": "Noite_Claro",
+    "Classes": [
+      "Coracao",
+      "Quadrado_Preto",
+      "Moeda_1"
+    ],
+    "Caminho": "C:\\Users\\josef\\Desktop\\Testando EP2\\Escala_Cinza\\Cinza_Fundo Rosa - Ilumi Noite_Claro - Classe B  (5).jpg"
+  },
+  "Escala_Cinza\\Cinza_Fundo Rosa - Ilumi Noite_Claro - Classe B  (6).jpg": {
+    "Fundo": "Rosa",
+    "Luminosidade": "Noite_Claro",
+    "Classes": [
+      "Coracao",
+      "Quadrado_Preto",
+      "Moeda_1"
+    ],
+    "Caminho": "C:\\Users\\josef\\Desktop\\Testando EP2\\Escala_Cinza\\Cinza_Fundo Rosa - Ilumi Noite_Claro - Classe B  (6).jpg"
+  },
+  "Escala_Cinza\\Cinza_Fundo Rosa - Ilumi Noite_Escuro - Classe B  (7).jpg": {
+    "Fundo": "Rosa",
+    "Luminosidade": "Noite_Escuro",
+    "Classes": [
+      "Coracao",
+      "Quadrado_Preto",
+      "Moeda_1"
+    ],
+    "Caminho": "C:\\Users\\josef\\Desktop\\Testando EP2\\Escala_Cinza\\Cinza_Fundo Rosa - Ilumi Noite_Escuro - Classe B  (7).jpg"
+  },
+  "Escala_Cinza\\Cinza_Fundo Rosa - Ilumi Noite_Escuro - Classe B  (8).jpg": {
+    "Fundo": "Rosa",
+    "Luminosidade": "Noite_Escuro",
+    "Classes": [
+      "Coracao",
+      "Quadrado_Preto",
+      "Moeda_1"
+    ],
+    "Caminho": "C:\\Users\\josef\\Desktop\\Testando EP2\\Escala_Cinza\\Cinza_Fundo Rosa - Ilumi Noite_Escuro - Classe B  (8).jpg"
+  },
+  "Escala_Cinza\\Cinza_Fundo Verde - Ilumi Dia_Claro - Classe B  (1).jpg": {
+    "Fundo": "Verde",
+    "Luminosidade": "Dia_Claro",
+    "Classes": [
+      "Coracao",
+      "Quadrado_Preto",
+      "Moeda_1"
+    ],
+    "Caminho": "C:\\Users\\josef\\Desktop\\Testando EP2\\Escala_Cinza\\Cinza_Fundo Verde - Ilumi Dia_Claro - Classe B  (1).jpg"
+  },
+  "Escala_Cinza\\Cinza_Fundo Verde - Ilumi Dia_Claro - Classe B  (2).jpg": {
+    "Fundo": "Verde",
+    "Luminosidade": "Dia_Claro",
+    "Classes": [
+      "Coracao",
+      "Quadrado_Preto",
+      "Moeda_1"
+    ],
+    "Caminho": "C:\\Users\\josef\\Desktop\\Testando EP2\\Escala_Cinza\\Cinza_Fundo Verde - Ilumi Dia_Claro - Classe B  (2).jpg"
+  },
+  "Escala_Cinza\\Cinza_Fundo Verde - Ilumi Dia_Escuro - Classe B  (3).jpg": {
+    "Fundo": "Verde",
+    "Luminosidade": "Dia_Escuro",
+    "Classes": [
+      "Coracao",
+      "Quadrado_Preto",
+      "Moeda_1"
+    ],
+    "Caminho": "C:\\Users\\josef\\Desktop\\Testando EP2\\Escala_Cinza\\Cinza_Fundo Verde - Ilumi Dia_Escuro - Classe B  (3).jpg"
+  },
+  "Escala_Cinza\\Cinza_Fundo Verde - Ilumi Dia_Escuro - Classe B  (4).jpg": {
+    "Fundo": "Verde",
+    "Luminosidade": "Dia_Escuro",
+    "Classes": [
+      "Coracao",
+      "Quadrado_Preto",
+      "Moeda_1"
+    ],
+    "Caminho": "C:\\Users\\josef\\Desktop\\Testando EP2\\Escala_Cinza\\Cinza_Fundo Verde - Ilumi Dia_Escuro - Classe B  (4).jpg"
+  },
+  "Escala_Cinza\\Cinza_Fundo Verde - Ilumi Noite_Claro - Classe B  (5).jpg": {
+    "Fundo": "Verde",
+    "Luminosidade": "Noite_Claro",
+    "Classes": [
+      "Coracao",
+      "Quadrado_Preto",
+      "Moeda_1"
+    ],
+    "Caminho": "C:\\Users\\josef\\Desktop\\Testando EP2\\Escala_Cinza\\Cinza_Fundo Verde - Ilumi Noite_Claro - Classe B  (5).jpg"
+  },
+  "Escala_Cinza\\Cinza_Fundo Verde - Ilumi Noite_Claro - Classe B  (6).jpg": {
+    "Fundo": "Verde",
+    "Luminosidade": "Noite_Claro",
+    "Classes": [
+      "Coracao",
+      "Quadrado_Preto",
+      "Moeda_1"
+    ],
+    "Caminho": "C:\\Users\\josef\\Desktop\\Testando EP2\\Escala_Cinza\\Cinza_Fundo Verde - Ilumi Noite_Claro - Classe B  (6).jpg"
+  },
+  "Escala_Cinza\\Cinza_Fundo Verde - Ilumi Noite_Escuro - Classe B  (7).jpg": {
+    "Fundo": "Verde",
+    "Luminosidade": "Noite_Escuro",
+    "Classes": [
+      "Coracao",
+      "Quadrado_Preto",
+      "Moeda_1"
+    ],
+    "Caminho": "C:\\Users\\josef\\Desktop\\Testando EP2\\Escala_Cinza\\Cinza_Fundo Verde - Ilumi Noite_Escuro - Classe B  (7).jpg"
+  },
+  "Escala_Cinza\\Cinza_Fundo Verde - Ilumi Noite_Escuro - Classe B  (8).jpg": {
+    "Fundo": "Verde",
+    "Luminosidade": "Noite_Escuro",
+    "Classes": [
+      "Coracao",
+      "Quadrado_Preto",
+      "Moeda_1"
+    ],
+    "Caminho": "C:\\Users\\josef\\Desktop\\Testando EP2\\Escala_Cinza\\Cinza_Fundo Verde - Ilumi Noite_Escuro - Classe B  (8).jpg"
+  },
+  "Escala_Cinza\\Cinza_Fundo Branco - Ilumi Dia_Claro - Classe C  (1).jpg": {
+    "Fundo": "Branco",
+    "Luminosidade": "Dia_Claro",
+    "Classes": [
+      "Moeda_Prateada",
+      "Pedra_Transparente",
+      "Pedra_Esverdeada",
+      "Pedra_Amarela"
+    ],
+    "Caminho": "C:\\Users\\josef\\Desktop\\Testando EP2\\Escala_Cinza\\Cinza_Fundo Branco - Ilumi Dia_Claro - Classe C  (1).jpg"
+  },
+  "Escala_Cinza\\Cinza_Fundo Branco - Ilumi Dia_Claro - Classe C  (2).jpg": {
+    "Fundo": "Branco",
+    "Luminosidade": "Dia_Claro",
+    "Classes": [
+      "Moeda_Prateada",
+      "Pedra_Transparente",
+      "Pedra_Esverdeada",
+      "Pedra_Amarela"
+    ],
+    "Caminho": "C:\\Users\\josef\\Desktop\\Testando EP2\\Escala_Cinza\\Cinza_Fundo Branco - Ilumi Dia_Claro - Classe C  (2).jpg"
+  },
+  "Escala_Cinza\\Cinza_Fundo Branco - Ilumi Dia_Escuro - Classe C  (3).jpg": {
+    "Fundo": "Branco",
+    "Luminosidade": "Dia_Escuro",
+    "Classes": [
+      "Moeda_Prateada",
+      "Pedra_Transparente",
+      "Pedra_Esverdeada",
+      "Pedra_Amarela"
+    ],
+    "Caminho": "C:\\Users\\josef\\Desktop\\Testando EP2\\Escala_Cinza\\Cinza_Fundo Branco - Ilumi Dia_Escuro - Classe C  (3).jpg"
+  },
+  "Escala_Cinza\\Cinza_Fundo Branco - Ilumi Dia_Escuro - Classe C  (4).jpg": {
+    "Fundo": "Branco",
+    "Luminosidade": "Dia_Escuro",
+    "Classes": [
+      "Moeda_Prateada",
+      "Pedra_Transparente",
+      "Pedra_Esverdeada",
+      "Pedra_Amarela"
+    ],
+    "Caminho": "C:\\Users\\josef\\Desktop\\Testando EP2\\Escala_Cinza\\Cinza_Fundo Branco - Ilumi Dia_Escuro - Classe C  (4).jpg"
+  },
+  "Escala_Cinza\\Cinza_Fundo Branco - Ilumi Noite_Claro - Classe C  (5).jpg": {
+    "Fundo": "Branco",
+    "Luminosidade": "Noite_Claro",
+    "Classes": [
+      "Moeda_Prateada",
+      "Pedra_Transparente",
+      "Pedra_Esverdeada",
+      "Pedra_Amarela"
+    ],
+    "Caminho": "C:\\Users\\josef\\Desktop\\Testando EP2\\Escala_Cinza\\Cinza_Fundo Branco - Ilumi Noite_Claro - Classe C  (5).jpg"
+  },
+  "Escala_Cinza\\Cinza_Fundo Branco - Ilumi Noite_Claro - Classe C  (6).jpg": {
+    "Fundo": "Branco",
+    "Luminosidade": "Noite_Claro",
+    "Classes": [
+      "Moeda_Prateada",
+      "Pedra_Transparente",
+      "Pedra_Esverdeada",
+      "Pedra_Amarela"
+    ],
+    "Caminho": "C:\\Users\\josef\\Desktop\\Testando EP2\\Escala_Cinza\\Cinza_Fundo Branco - Ilumi Noite_Claro - Classe C  (6).jpg"
+  },
+  "Escala_Cinza\\Cinza_Fundo Branco - Ilumi Noite_Escuro - Classe C  (7).jpg": {
+    "Fundo": "Branco",
+    "Luminosidade": "Noite_Escuro",
+    "Classes": [
+      "Moeda_Prateada",
+      "Pedra_Transparente",
+      "Pedra_Esverdeada",
+      "Pedra_Amarela"
+    ],
+    "Caminho": "C:\\Users\\josef\\Desktop\\Testando EP2\\Escala_Cinza\\Cinza_Fundo Branco - Ilumi Noite_Escuro - Classe C  (7).jpg"
+  },
+  "Escala_Cinza\\Cinza_Fundo Branco - Ilumi Noite_Escuro - Classe C  (8).jpg": {
+    "Fundo": "Branco",
+    "Luminosidade": "Noite_Escuro",
+    "Classes": [
+      "Moeda_Prateada",
+      "Pedra_Transparente",
+      "Pedra_Esverdeada",
+      "Pedra_Amarela"
+    ],
+    "Caminho": "C:\\Users\\josef\\Desktop\\Testando EP2\\Escala_Cinza\\Cinza_Fundo Branco - Ilumi Noite_Escuro - Classe C  (8).jpg"
+  },
+  "Escala_Cinza\\Cinza_Fundo Preto - Ilumi Dia_Claro - Classe C  (1).jpg": {
+    "Fundo": "Preto",
+    "Luminosidade": "Dia_Claro",
+    "Classes": [
+      "Moeda_Prateada",
+      "Pedra_Transparente",
+      "Pedra_Esverdeada",
+      "Pedra_Amarela"
+    ],
+    "Caminho": "C:\\Users\\josef\\Desktop\\Testando EP2\\Escala_Cinza\\Cinza_Fundo Preto - Ilumi Dia_Claro - Classe C  (1).jpg"
+  },
+  "Escala_Cinza\\Cinza_Fundo Preto - Ilumi Dia_Claro - Classe C  (2).jpg": {
+    "Fundo": "Preto",
+    "Luminosidade": "Dia_Claro",
+    "Classes": [
+      "Moeda_Prateada",
+      "Pedra_Transparente",
+      "Pedra_Esverdeada",
+      "Pedra_Amarela"
+    ],
+    "Caminho": "C:\\Users\\josef\\Desktop\\Testando EP2\\Escala_Cinza\\Cinza_Fundo Preto - Ilumi Dia_Claro - Classe C  (2).jpg"
+  },
+  "Escala_Cinza\\Cinza_Fundo Preto - Ilumi Dia_Escuro - Classe C  (3).jpg": {
+    "Fundo": "Preto",
+    "Luminosidade": "Dia_Escuro",
+    "Classes": [
+      "Moeda_Prateada",
+      "Pedra_Transparente",
+      "Pedra_Esverdeada",
+      "Pedra_Amarela"
+    ],
+    "Caminho": "C:\\Users\\josef\\Desktop\\Testando EP2\\Escala_Cinza\\Cinza_Fundo Preto - Ilumi Dia_Escuro - Classe C  (3).jpg"
+  },
+  "Escala_Cinza\\Cinza_Fundo Preto - Ilumi Dia_Escuro - Classe C  (4).jpg": {
+    "Fundo": "Preto",
+    "Luminosidade": "Dia_Escuro",
+    "Classes": [
+      "Moeda_Prateada",
+      "Pedra_Transparente",
+      "Pedra_Esverdeada",
+      "Pedra_Amarela"
+    ],
+    "Caminho": "C:\\Users\\josef\\Desktop\\Testando EP2\\Escala_Cinza\\Cinza_Fundo Preto - Ilumi Dia_Escuro - Classe C  (4).jpg"
+  },
+  "Escala_Cinza\\Cinza_Fundo Preto - Ilumi Noite_Claro - Classe C  (5).jpg": {
+    "Fundo": "Preto",
+    "Luminosidade": "Noite_Claro",
+    "Classes": [
+      "Moeda_Prateada",
+      "Pedra_Transparente",
+      "Pedra_Esverdeada",
+      "Pedra_Amarela"
+    ],
+    "Caminho": "C:\\Users\\josef\\Desktop\\Testando EP2\\Escala_Cinza\\Cinza_Fundo Preto - Ilumi Noite_Claro - Classe C  (5).jpg"
+  },
+  "Escala_Cinza\\Cinza_Fundo Preto - Ilumi Noite_Claro - Classe C  (6).jpg": {
+    "Fundo": "Preto",
+    "Luminosidade": "Noite_Claro",
+    "Classes": [
+      "Moeda_Prateada",
+      "Pedra_Transparente",
+      "Pedra_Esverdeada",
+      "Pedra_Amarela"
+    ],
+    "Caminho": "C:\\Users\\josef\\Desktop\\Testando EP2\\Escala_Cinza\\Cinza_Fundo Preto - Ilumi Noite_Claro - Classe C  (6).jpg"
+  },
+  "Escala_Cinza\\Cinza_Fundo Preto - Ilumi Noite_Escuro - Classe C  (7).jpg": {
+    "Fundo": "Preto",
+    "Luminosidade": "Noite_Escuro",
+    "Classes": [
+      "Moeda_Prateada",
+      "Pedra_Transparente",
+      "Pedra_Esverdeada",
+      "Pedra_Amarela"
+    ],
+    "Caminho": "C:\\Users\\josef\\Desktop\\Testando EP2\\Escala_Cinza\\Cinza_Fundo Preto - Ilumi Noite_Escuro - Classe C  (7).jpg"
+  },
+  "Escala_Cinza\\Cinza_Fundo Preto - Ilumi Noite_Escuro - Classe C  (8).jpg": {
+    "Fundo": "Preto",
+    "Luminosidade": "Noite_Escuro",
+    "Classes": [
+      "Moeda_Prateada",
+      "Pedra_Transparente",
+      "Pedra_Esverdeada",
+      "Pedra_Amarela"
+    ],
+    "Caminho": "C:\\Users\\josef\\Desktop\\Testando EP2\\Escala_Cinza\\Cinza_Fundo Preto - Ilumi Noite_Escuro - Classe C  (8).jpg"
+  },
+  "Escala_Cinza\\Cinza_Fundo Rosa - Ilumi Dia_Claro - Classe C  (1).jpg": {
+    "Fundo": "Rosa",
+    "Luminosidade": "Dia_Claro",
+    "Classes": [
+      "Moeda_Prateada",
+      "Pedra_Transparente",
+      "Pedra_Esverdeada",
+      "Pedra_Amarela"
+    ],
+    "Caminho": "C:\\Users\\josef\\Desktop\\Testando EP2\\Escala_Cinza\\Cinza_Fundo Rosa - Ilumi Dia_Claro - Classe C  (1).jpg"
+  },
+  "Escala_Cinza\\Cinza_Fundo Rosa - Ilumi Dia_Claro - Classe C  (2).jpg": {
+    "Fundo": "Rosa",
+    "Luminosidade": "Dia_Claro",
+    "Classes": [
+      "Moeda_Prateada",
+      "Pedra_Transparente",
+      "Pedra_Esverdeada",
+      "Pedra_Amarela"
+    ],
+    "Caminho": "C:\\Users\\josef\\Desktop\\Testando EP2\\Escala_Cinza\\Cinza_Fundo Rosa - Ilumi Dia_Claro - Classe C  (2).jpg"
+  },
+  "Escala_Cinza\\Cinza_Fundo Rosa - Ilumi Dia_Escuro - Classe C  (3).jpg": {
+    "Fundo": "Rosa",
+    "Luminosidade": "Dia_Escuro",
+    "Classes": [
+      "Moeda_Prateada",
+      "Pedra_Transparente",
+      "Pedra_Esverdeada",
+      "Pedra_Amarela"
+    ],
+    "Caminho": "C:\\Users\\josef\\Desktop\\Testando EP2\\Escala_Cinza\\Cinza_Fundo Rosa - Ilumi Dia_Escuro - Classe C  (3).jpg"
+  },
+  "Escala_Cinza\\Cinza_Fundo Rosa - Ilumi Dia_Escuro - Classe C  (4).jpg": {
+    "Fundo": "Rosa",
+    "Luminosidade": "Dia_Escuro",
+    "Classes": [
+      "Moeda_Prateada",
+      "Pedra_Transparente",
+      "Pedra_Esverdeada",
+      "Pedra_Amarela"
+    ],
+    "Caminho": "C:\\Users\\josef\\Desktop\\Testando EP2\\Escala_Cinza\\Cinza_Fundo Rosa - Ilumi Dia_Escuro - Classe C  (4).jpg"
+  },
+  "Escala_Cinza\\Cinza_Fundo Rosa - Ilumi Noite_Claro - Classe C  (5).jpg": {
+    "Fundo": "Rosa",
+    "Luminosidade": "Noite_Claro",
+    "Classes": [
+      "Moeda_Prateada",
+      "Pedra_Transparente",
+      "Pedra_Esverdeada",
+      "Pedra_Amarela"
+    ],
+    "Caminho": "C:\\Users\\josef\\Desktop\\Testando EP2\\Escala_Cinza\\Cinza_Fundo Rosa - Ilumi Noite_Claro - Classe C  (5).jpg"
+  },
+  "Escala_Cinza\\Cinza_Fundo Rosa - Ilumi Noite_Claro - Classe C  (6).jpg": {
+    "Fundo": "Rosa",
+    "Luminosidade": "Noite_Claro",
+    "Classes": [
+      "Moeda_Prateada",
+      "Pedra_Transparente",
+      "Pedra_Esverdeada",
+      "Pedra_Amarela"
+    ],
+    "Caminho": "C:\\Users\\josef\\Desktop\\Testando EP2\\Escala_Cinza\\Cinza_Fundo Rosa - Ilumi Noite_Claro - Classe C  (6).jpg"
+  },
+  "Escala_Cinza\\Cinza_Fundo Rosa - Ilumi Noite_Escuro - Classe C  (7).jpg": {
+    "Fundo": "Rosa",
+    "Luminosidade": "Noite_Escuro",
+    "Classes": [
+      "Moeda_Prateada",
+      "Pedra_Transparente",
+      "Pedra_Esverdeada",
+      "Pedra_Amarela"
+    ],
+    "Caminho": "C:\\Users\\josef\\Desktop\\Testando EP2\\Escala_Cinza\\Cinza_Fundo Rosa - Ilumi Noite_Escuro - Classe C  (7).jpg"
+  },
+  "Escala_Cinza\\Cinza_Fundo Rosa - Ilumi Noite_Escuro - Classe C  (8).jpg": {
+    "Fundo": "Rosa",
+    "Luminosidade": "Noite_Escuro",
+    "Classes": [
+      "Moeda_Prateada",
+      "Pedra_Transparente",
+      "Pedra_Esverdeada",
+      "Pedra_Amarela"
+    ],
+    "Caminho": "C:\\Users\\josef\\Desktop\\Testando EP2\\Escala_Cinza\\Cinza_Fundo Rosa - Ilumi Noite_Escuro - Classe C  (8).jpg"
+  },
+  "Escala_Cinza\\Cinza_Fundo Verde - Ilumi Dia_Claro - Classe C  (1).jpg": {
+    "Fundo": "Verde",
+    "Luminosidade": "Dia_Claro",
+    "Classes": [
+      "Moeda_Prateada",
+      "Pedra_Transparente",
+      "Pedra_Esverdeada",
+      "Pedra_Amarela"
+    ],
+    "Caminho": "C:\\Users\\josef\\Desktop\\Testando EP2\\Escala_Cinza\\Cinza_Fundo Verde - Ilumi Dia_Claro - Classe C  (1).jpg"
+  },
+  "Escala_Cinza\\Cinza_Fundo Verde - Ilumi Dia_Claro - Classe C  (2).jpg": {
+    "Fundo": "Verde",
+    "Luminosidade": "Dia_Claro",
+    "Classes": [
+      "Moeda_Prateada",
+      "Pedra_Transparente",
+      "Pedra_Esverdeada",
+      "Pedra_Amarela"
+    ],
+    "Caminho": "C:\\Users\\josef\\Desktop\\Testando EP2\\Escala_Cinza\\Cinza_Fundo Verde - Ilumi Dia_Claro - Classe C  (2).jpg"
+  },
+  "Escala_Cinza\\Cinza_Fundo Verde - Ilumi Dia_Escuro - Classe C  (3).jpg": {
+    "Fundo": "Verde",
+    "Luminosidade": "Dia_Escuro",
+    "Classes": [
+      "Moeda_Prateada",
+      "Pedra_Transparente",
+      "Pedra_Esverdeada",
+      "Pedra_Amarela"
+    ],
+    "Caminho": "C:\\Users\\josef\\Desktop\\Testando EP2\\Escala_Cinza\\Cinza_Fundo Verde - Ilumi Dia_Escuro - Classe C  (3).jpg"
+  },
+  "Escala_Cinza\\Cinza_Fundo Verde - Ilumi Dia_Escuro - Classe C  (4).jpg": {
+    "Fundo": "Verde",
+    "Luminosidade": "Dia_Escuro",
+    "Classes": [
+      "Moeda_Prateada",
+      "Pedra_Transparente",
+      "Pedra_Esverdeada",
+      "Pedra_Amarela"
+    ],
+    "Caminho": "C:\\Users\\josef\\Desktop\\Testando EP2\\Escala_Cinza\\Cinza_Fundo Verde - Ilumi Dia_Escuro - Classe C  (4).jpg"
+  },
+  "Escala_Cinza\\Cinza_Fundo Verde - Ilumi Noite_Claro - Classe C  (5).jpg": {
+    "Fundo": "Verde",
+    "Luminosidade": "Noite_Claro",
+    "Classes": [
+      "Moeda_Prateada",
+      "Pedra_Transparente",
+      "Pedra_Esverdeada",
+      "Pedra_Amarela"
+    ],
+    "Caminho": "C:\\Users\\josef\\Desktop\\Testando EP2\\Escala_Cinza\\Cinza_Fundo Verde - Ilumi Noite_Claro - Classe C  (5).jpg"
+  },
+  "Escala_Cinza\\Cinza_Fundo Verde - Ilumi Noite_Claro - Classe C  (6).jpg": {
+    "Fundo": "Verde",
+    "Luminosidade": "Noite_Claro",
+    "Classes": [
+      "Moeda_Prateada",
+      "Pedra_Transparente",
+      "Pedra_Esverdeada",
+      "Pedra_Amarela"
+    ],
+    "Caminho": "C:\\Users\\josef\\Desktop\\Testando EP2\\Escala_Cinza\\Cinza_Fundo Verde - Ilumi Noite_Claro - Classe C  (6).jpg"
+  },
+  "Escala_Cinza\\Cinza_Fundo Verde - Ilumi Noite_Escuro - Classe C  (7).jpg": {
+    "Fundo": "Verde",
+    "Luminosidade": "Noite_Escuro",
+    "Classes": [
+      "Moeda_Prateada",
+      "Pedra_Transparente",
+      "Pedra_Esverdeada",
+      "Pedra_Amarela"
+    ],
+    "Caminho": "C:\\Users\\josef\\Desktop\\Testando EP2\\Escala_Cinza\\Cinza_Fundo Verde - Ilumi Noite_Escuro - Classe C  (7).jpg"
+  },
+  "Escala_Cinza\\Cinza_Fundo Verde - Ilumi Noite_Escuro - Classe C  (8).jpg": {
+    "Fundo": "Verde",
+    "Luminosidade": "Noite_Escuro",
+    "Classes": [
+      "Moeda_Prateada",
+      "Pedra_Transparente",
+      "Pedra_Esverdeada",
+      "Pedra_Amarela"
+    ],
+    "Caminho": "C:\\Users\\josef\\Desktop\\Testando EP2\\Escala_Cinza\\Cinza_Fundo Verde - Ilumi Noite_Escuro - Classe C  (8).jpg"
+  }
+}
